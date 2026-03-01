@@ -25,3 +25,46 @@
 <p align="center">
 <img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[KULLANICI_ADINIZ]&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
+
+<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="[http://www.w3.org/2000/svg](http://www.w3.org/2000/svg)">
+  <foreignObject width="100%" height="100%">
+    <div xmlns="[http://www.w3.org/1999/xhtml](http://www.w3.org/1999/xhtml)">
+      <style>
+        @keyframes rotate {
+          from { transform: rotate(0deg); }
+          to { transform: rotate(360deg); }
+        }
+        .container {
+          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          height: 200px;
+          background: linear-gradient(45deg, #0f172a, #1e293b);
+          border-radius: 15px;
+          color: white;
+          overflow: hidden;
+          position: relative;
+        }
+        .circle {
+          position: absolute;
+          width: 300px;
+          height: 300px;
+          background: radial-gradient(circle, rgba(56,189,248,0.2) 0%, transparent 70%);
+          animation: rotate 10s linear infinite;
+        }
+        .text {
+          font-size: 24px;
+          font-weight: bold;
+          z-index: 1;
+          text-shadow: 0 0 10px rgba(56,189,248,0.5);
+        }
+      </style>
+      <div class="container">
+        <div class="circle"></div>
+        <div class="text">Kodlamak Bir Sanattır 🚀</div>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
+
