@@ -1,70 +1,36 @@
-👋 Selam, Ben [Adınız]!
-<p align="center">
-<img src="https://www.google.com/search?q=https://capsule-render.vercel.app/render%3Ftype%3Dsoft%26color%3Dauto%26height%3D300%26section%3Dheader%26text%3DFull%2520Stack%2520Developer%26fontSize%3D70%26animation%3DfadeIn%26fontAlignY%3D38" />
-</p>
-💫 Hakkımda
-<table align="right">
-<tr>
-<td>
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api%3Fusername%3D[KULLANICI_ADINIZ]&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-</td>
-</tr>
-</table>
-• 🚀 Şu an [Proje Adı] üzerinde çalışıyorum.
-• 💡 React, Node.js ve Cloud Native teknolojilerine tutkuluyum.
-• ✍️ Boş zamanlarımda teknik blog yazıları yazıyorum.
-• 🎯 Hedefim: Ölçeklenebilir ve kullanıcı dostu mimariler inşa etmek.
-<br clear="both">
-🛠️ Yeteneklerim
+# Hi 👋, I'm benyigit - Yiğit Özcan
+
+### A passionate Javascript developer
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=benyigit&label=Profile views&color=0e75b6&style=flat" alt="benyigit" /> </p>
+
+- 🔭 I'm currently working on **Np1.dev UI Kit Library Project**
+
+- 🌱 I'm currently learning **Typescript, ThreeJS, NextJS, TalwindCSS, Figma**
+
+- 👯 I'm looking to collaborate on **I am interested in open source projects for the benefit of the community**
+
+- 📫 How to reach me **yigitoz1452@gmail.com**
+
+- 👨‍💻 All of my projects are available at **[https://benyigitdev.com](https://benyigitdev.com)**
+
+- 📝 I regularly write articles on **[https://codlyio.com](https://codlyio.com)**
+
+- 📄 Know about my experiences **[https://benyigitdev.com/myresume](https://benyigitdev.com/myresume)**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://skillicons.dev">
-<img src="https://www.google.com/search?q=https://skillicons.dev/icons%3Fi%3Djs,ts,react,nextjs,nodejs,mongodb,docker,aws,git,tailwind,figma,py" />
-</a>
-</p>
-📊 GitHub Aktivite Grafiğim
-<p align="center">
-<img src="https://www.google.com/search?q=https://github-readme-stats.vercel.app/api/top-langs/%3Fusername%3D[KULLANICI_ADINIZ]&layout=compact&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/benyigit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="benyigit" height="30" width="40" /></a>
+<a href="https://dev.to/drchel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="drchel" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/benyigit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benyigit" height="30" width="40" /></a>
+<a href="https://codepen.io/benyigitdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="benyigitdev" height="30" width="40" /></a>
+<a href="https://codesandbox.io/benyigitdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="benyigitdev" height="30" width="40" /></a>
+<a href="https://instagram.com/yigitozcc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yigitozcc" height="30" width="40" /></a>
+<a href="https://twitter.com/benyigitdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="benyigitdev" height="30" width="40" /></a>
+<a href="https://hackerrank.com/beyigitdec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="beyigitdec" height="30" width="40" /></a>
+<a href="https://leetcode.com/benyigitdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="benyigitdev" height="30" width="40" /></a>
 </p>
 
-<svg fill="none" viewBox="0 0 800 200" width="800" height="200" xmlns="[http://www.w3.org/2000/svg](http://www.w3.org/2000/svg)">
-  <foreignObject width="100%" height="100%">
-    <div xmlns="[http://www.w3.org/1999/xhtml](http://www.w3.org/1999/xhtml)">
-      <style>
-        @keyframes rotate {
-          from { transform: rotate(0deg); }
-          to { transform: rotate(360deg); }
-        }
-        .container {
-          font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-          display: flex;
-          align-items: center;
-          justify-content: center;
-          height: 200px;
-          background: linear-gradient(45deg, #0f172a, #1e293b);
-          border-radius: 15px;
-          color: white;
-          overflow: hidden;
-          position: relative;
-        }
-        .circle {
-          position: absolute;
-          width: 300px;
-          height: 300px;
-          background: radial-gradient(circle, rgba(56,189,248,0.2) 0%, transparent 70%);
-          animation: rotate 10s linear infinite;
-        }
-        .text {
-          font-size: 24px;
-          font-weight: bold;
-          z-index: 1;
-          text-shadow: 0 0 10px rgba(56,189,248,0.5);
-        }
-      </style>
-      <div class="container">
-        <div class="circle"></div>
-        <div class="text">Kodlamak Bir Sanattır 🚀</div>
-      </div>
-    </div>
-  </foreignObject>
-</svg>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/webpack" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=webpack" alt="webpack" width="40" height="40"/> </a></p>
 
