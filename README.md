@@ -1,36 +1,96 @@
-# Hi 👋, I'm benyigit - Yiğit Özcan
+<!-- Modern Siyah/Karanlık Animasyonlu Header Banner -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=250&section=header&text=Hi%20👋,%20I'm%20Yiğit%20Özcan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=A%20passionate%20Javascript%20Developer&descAlignY=55&descAlign=50" width="100%" />
+</div>
 
-### A passionate Javascript developer
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=benyigit&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="benyigit" />
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=benyigit&label=Profile views&color=0e75b6&style=flat" alt="benyigit" /> </p>
+<br />
 
-- 🔭 I'm currently working on **Np1.dev UI Kit Library Project**
+<!-- Animasyonlu Kimlik Kartı & Açıklamalar -->
+<div align="center">
 
-- 🌱 I'm currently learning **Typescript, ThreeJS, NextJS, TalwindCSS, Figma**
+### 👨‍💻 Hakkımda / About Me
 
-- 👯 I'm looking to collaborate on **I am interested in open source projects for the benefit of the community**
-
-- 📫 How to reach me **yigitoz1452@gmail.com**
-
-- 👨‍💻 All of my projects are available at **[https://benyigitdev.com](https://benyigitdev.com)**
-
-- 📝 I regularly write articles on **[https://codlyio.com](https://codlyio.com)**
-
-- 📄 Know about my experiences **[https://benyigitdev.com/myresume](https://benyigitdev.com/myresume)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://github.com/benyigit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="benyigit" height="30" width="40" /></a>
-<a href="https://dev.to/drchel" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="drchel" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/benyigit" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="benyigit" height="30" width="40" /></a>
-<a href="https://codepen.io/benyigitdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="benyigitdev" height="30" width="40" /></a>
-<a href="https://codesandbox.io/benyigitdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg" alt="benyigitdev" height="30" width="40" /></a>
-<a href="https://instagram.com/yigitozcc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yigitozcc" height="30" width="40" /></a>
-<a href="https://twitter.com/benyigitdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="benyigitdev" height="30" width="40" /></a>
-<a href="https://hackerrank.com/beyigitdec" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="beyigitdec" height="30" width="40" /></a>
-<a href="https://leetcode.com/benyigitdev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="benyigitdev" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://benyigitdev.com" target="_blank">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=🔭+Working+on+Np1.dev+UI+Kit...;🌱+Learning+NextJS,+ThreeJS,+Tailwind...;👯+Looking+for+Open+Source+Collabs...;📝+Writing+articles+on+Codlyio.com...&font=Inter&center=true&width=500&height=50&color=0e75b6&vCenter=true&size=16" alt="Typing SVG" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.mozilla.org/en-US/docs/Web/amplify" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" alt="amplify" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/aws" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=aws" alt="aws" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/bootstrap" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=bootstrap" alt="bootstrap" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/css3" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=css" alt="css3" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/dart" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=dart" alt="dart" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/express" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=express" alt="express" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/gcp" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=gcp" alt="gcp" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/git" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=git" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/html5" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=html" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/javascript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=js" alt="javascript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mongodb" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mongodb" alt="mongodb" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/mysql" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=mysql" alt="mysql" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nginx" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nginx" alt="nginx" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/nodejs" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=nodejs" alt="nodejs" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/react" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=react" alt="react" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/typescript" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=ts" alt="typescript" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/webpack" target="_blank" rel="noreferrer"> <img src="https://skillicons.dev/icons?i=webpack" alt="webpack" width="40" height="40"/> </a></p>
+| 💡 Deneyim & Hedefler | 🔗 Hızlı Bağlantılar |
+| :--- | :--- |
+| 🔭 **Projeler:** [Np1.dev UI Kit Library](https://np1.dev) üzerinde çalışıyorum.<br>🌱 **Öğrenmeye Devam:** TypeScript, ThreeJS, NextJS, TailwindCSS, Figma<br>👯 **Topluluk:** Açık kaynak (Open Source) projelerde yer almayı seviyorum. | 👨‍💻 **Portfolyo:** [benyigitdev.com](https://benyigitdev.com)<br>📝 **Makaleler:** [codlyio.com](https://codlyio.com)<br>📄 **Özgeçmiş (CV):** [My Resume](https://benyigitdev.com/myresume)<br>📫 **İletişim:** yigitoz1452@gmail.com |
 
+</div>
+
+<br />
+
+<!-- Modern Teknoloji İkonları (Codlyio Tarzı Kare Clean SVG'ler) -->
+<div align="center">
+  <h3>🛠️ Kullandığım Diller & Araçlar</h3>
+  <br>
+  <p align="center">
+    <a href="https://skillicons.dev">
+      <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,threejs,tailwind,css,html&theme=dark" alt="Frontend" /><br><br>
+      <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,aws,gcp,nginx,webpack,git,dart&theme=dark" alt="Backend & Tools" />
+    </a>
+  </p>
+</div>
+
+<br />
+
+<!-- Karanlık Temalı Dinamik GitHub İstatistikleri -->
+<div align="center">
+  <h3>📊 GitHub İstatistikleri</h3>
+  <br>
+  <p align="center">
+    <!-- Tokyonight temasıyla siyah tonları uyum sağlar -->
+    <img src="https://github-readme-stats.vercel.app/api?username=benyigit&show_icons=true&theme=tokyonight&hide_border=true&bg_color=111111" alt="GitHub Stats" width="48%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=benyigit&theme=tokyonight&hide_border=true&background=111111" alt="GitHub Streak" width="48%" />
+  </p>
+</div>
+
+<br />
+
+<!-- Tasarımlı (Kutu) Sosyal Medya Rozetleri -->
+<div align="center">
+  <h3>🤝 Benimle İletişime Geç</h3>
+  <br>
+  
+  <a href="https://linkedin.com/in/benyigit" target="blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="https://twitter.com/benyigitdev" target="blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter" />
+  </a>
+  <a href="https://dev.to/drchel" target="blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" />
+  </a>
+  <a href="https://instagram.com/yigitozcc" target="blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
+  </a>
+  
+  <br><br>
+  
+  <a href="https://codepen.io/benyigitdev" target="blank">
+    <img src="https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white" alt="codepen" />
+  </a>
+  <a href="https://codesandbox.io/benyigitdev" target="blank">
+    <img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=codesandbox&logoColor=white" alt="codesandbox" />
+  </a>
+  <a href="https://leetcode.com/benyigitdev" target="blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" />
+  </a>
+  <a href="https://hackerrank.com/beyigitdec" target="blank">
+    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank" />
+  </a>
+</div>
+
+<!-- Footer Kapanış Dalgası -->
+<br />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=111111&height=100&section=footer" width="100%" />
+</div>
