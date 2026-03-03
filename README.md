@@ -7,7 +7,7 @@
   <img src="https://komarev.com/ghpvc/?username=benyigit&label=PROFILE%20VIEWS&color=0e75b6&style=for-the-badge" alt="benyigit" />
 </div>
 
-<br />
+
 
 <!-- Animasyonlu Kimlik Kartı & Açıklamalar -->
 <div align="center">
