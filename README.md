@@ -28,7 +28,7 @@
 
 <br />
 
-<!-- Modern Teknoloji İkonları (Codlyio Tarzı Kare Clean SVG'ler) -->
+<!-- Modern Teknoloji İkonları -->
 <div align="center">
   <h3>🛠️ Kullandığım Diller & Araçlar</h3>
   <br>
@@ -55,40 +55,33 @@
 
 <br />
 
-<!-- Tasarımlı (Kutu) Sosyal Medya Rozetleri -->
+<!-- Skillicons Uyumlu Yuvarlatılmış Bireysel İkonlar -->
 <div align="center">
   <h3>🤝 Benimle İletişime Geç</h3>
   <br>
-  
-  <a href="https://linkedin.com/in/benyigit" target="blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
-  </a>
-  <a href="https://x.com/benyigitdev" target="blank">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=X&logoColor=white" alt="x" />
-  </a>
-  <a href="https://dev.to/drchel" target="blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white" alt="dev.to" />
-  </a>
-  <a href="https://instagram.com/yigitozcc" target="blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="instagram" />
-  </a>
-  
-  <br><br>
-  
-  <a href="https://codepen.io/benyigitdev" target="blank">
-    <!-- CodePen logosu düzeltildi -->
-    <img src="https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=CodePen&logoColor=white" alt="codepen" />
-  </a>
-  <a href="https://codesandbox.io/benyigitdev" target="blank">
-    <!-- CodeSandbox logosu düzeltildi -->
-    <img src="https://img.shields.io/badge/CodeSandbox-151515?style=for-the-badge&logo=CodeSandbox&logoColor=white" alt="codesandbox" />
-  </a>
-  <a href="https://leetcode.com/benyigitdev" target="blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="leetcode" />
-  </a>
-  <a href="https://hackerrank.com/beyigitdec" target="blank">
-    <img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=white" alt="hackerrank" />
-  </a>
+  <p align="center">
+    <a href="https://linkedin.com/in/benyigit" target="blank">
+      <img src="https://skillicons.dev/icons?i=linkedin&theme=dark" alt="linkedin" />
+    </a>
+    <a href="https://x.com/benyigitdev" target="blank">
+      <img src="https://skillicons.dev/icons?i=twitter&theme=dark" alt="x" />
+    </a>
+    <a href="https://dev.to/drchel" target="blank">
+      <img src="https://skillicons.dev/icons?i=devto&theme=dark" alt="dev.to" />
+    </a>
+    <a href="https://instagram.com/yigitozcc" target="blank">
+      <img src="https://skillicons.dev/icons?i=instagram&theme=dark" alt="instagram" />
+    </a>
+    <a href="https://codepen.io/benyigitdev" target="blank">
+      <img src="https://skillicons.dev/icons?i=codepen&theme=dark" alt="codepen" />
+    </a>
+    <a href="mailto:yigitoz1452@gmail.com" target="blank">
+      <img src="https://skillicons.dev/icons?i=gmail&theme=dark" alt="email" />
+    </a>
+    <a href="https://discord.com" target="blank">
+      <img src="https://skillicons.dev/icons?i=discord&theme=dark" alt="discord" />
+    </a>
+  </p>
 </div>
 
 <!-- Footer Kapanış Dalgası -->
