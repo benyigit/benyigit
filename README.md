@@ -1,4 +1,4 @@
-# Yiğit Özcan
+# yigit ozcan
 
 ### Software Developer
 
